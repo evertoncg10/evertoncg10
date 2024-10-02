@@ -29,7 +29,9 @@ Software Architect
 ##
 
 <div style="display: inline_block"><br/>
-    <a href="https://github.com/EvertonCezarTech">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvertonCezarTech&show_icons=true&theme=tokyonight">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonCezarTech&layout=compact"> </a>
+    <a href="https://github.com/evertoncg10">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evertoncg10&show_icons=true&theme=tokyonight">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertoncg10&layout=compact"> </a>
 </div>
+
+
