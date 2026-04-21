@@ -6,15 +6,17 @@
 </div>
 Software Architect
 
-<div> <br/><br/>
-<img  align="center" alt="Java" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-<img  align="center" alt="Spring" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
-<img  align="center" alt="Intellij" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-<img  align="center" alt="Docker" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-<img  align="center" alt="AWS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-<img  align="center" alt="DynamoDB" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg">
-<img  align="center" alt="DynamoDB" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-<img  align="center" alt="DynamoDB" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">
+<br/>
+
+<div>
+  <img alt="Java" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img alt="Spring" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
+  <img alt="Intellij" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+  <img alt="Docker" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+  <img alt="AWS" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img alt="DynamoDB" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg">
+  <img alt="MySQL" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img alt="PostgreSQL" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">
 </div>
 
 <br/><br/>
@@ -23,14 +25,14 @@ Software Architect
 
 ### 📚 Artigos Postados
 
-* <a href="https://dev.to/evertoncezartech/cloud-computing-principais-beneficios-e-desafios-enfrentados-na-adocao-da-computacao-em-nuvem-1184">Cloud Computing: Principais benefícios e desafios enfrentados na adoção da computação em nuvem </a> <br/><br/>
+* <a href="https://dev.to/evertoncezartech/cloud-computing-principais-beneficios-e-desafios-enfrentados-na-adocao-da-computacao-em-nuvem-1184">Cloud Computing: Principais benefícios e desafios enfrentados na adoção da computação em nuvem </a> 
+
+<br/><br/>
 
 ##
 
-<div style="display: inline_block"><br/>
+<div>
     <a href="https://github.com/evertoncg10">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evertoncg10&show_icons=true&theme=tokyonight">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertoncg10&layout=compact"> </a>
 </div>
-
-
